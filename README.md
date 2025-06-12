@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Vinit Poojary </h1>
-<h3 align="center">!(Keep coding and keep learning)</h3>
+<h3 align="center">Keep coding and keep learning</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
