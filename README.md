@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Nihar Zanwar </h1>
-<h3 align="center">!(your everyday developer)</h3>
+<h1 align="center">Hi 👋, I'm Vinit Poojary </h1>
+<h3 align="center">!(Keep coding and keep learning)</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/NiharZanwar?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/VinitPoojary28?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **zanwarnihar@gmail.com**
+- 📫 How to reach me **vinitpoojary28@gmail.com**
 
 
 
